@@ -3,8 +3,8 @@ title: '[제4화] ORDER의 등장'
 aliases: []
 tags: []
 created: '2026-06-25T12:19:59.294Z'
-updated: '2026-06-25T12:19:59.294Z'
-t: 104
+updated: '2026-06-25T12:24:27.538Z'
+t: 4
 date: 애니메이션 1기 4화
 participants:
   - character/나구모
